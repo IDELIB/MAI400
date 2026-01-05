@@ -14,7 +14,6 @@ IBMiとOutlook 2506をプライベートネットワーク経由で接続する�
 
 ### ドキュメントの場所
 ドキュメントは別リポジトリに移動しました：
-**`C:\Users\IDE\Documents\GitHub\IBM_Bob\IBMi-Outlook\`**
 
 **主要ドキュメント:**
 - 基本実装計画書 - SMTP/POP3を使用した基本設計
